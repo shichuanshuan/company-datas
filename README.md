@@ -1,2 +1,2 @@
-# company-datas
+# computer-datas
 计算机方面的资料
